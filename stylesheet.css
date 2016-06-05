@@ -1,0 +1,40 @@
+body {
+    height: 6000px;
+}
+
+#red-box {
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 1000px;
+}
+
+#blue-box {
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 2000px;
+}
+
+#green-box {
+    background-color: green;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 3000px;
+}
+
+#purple-box {
+    background-color: purple;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 4000px;
+}
+
+.bitty {
+    height: 50px !important;
+    width: 50px !important;
+}
